@@ -1,0 +1,15 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(17, 93, 112);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.header > h2 {
+    color: rgb(232, 234, 235);
+}

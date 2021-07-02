@@ -1,0 +1,22 @@
+.newTraction-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    width : 45px;
+    border-radius: 47%;
+    background-color: rgb(7, 134, 143);
+    color: white;
+}
+
+
+.newTraction-btn:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    width : 45px;
+    border-radius: 47%;
+    background-color: rgb(6, 94, 100);
+    color: white;
+}
